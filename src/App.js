@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
+
+
       <h1>Hello, my name is Benton! TEST TEST TEST</h1>
 
     </div>
