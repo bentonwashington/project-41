@@ -1,14 +1,14 @@
 
 import './App.css';
 import Navbar from './components/Navbar';
+import Hero from './components/Hero';
 
 function App() {
   return (
     <div className="App">
+            <h1>Hello, my name is Benton! TEST TEST TEST this is my yeahhhhhhh </h1>
       <Navbar/>
-
-
-      <h1>Hello, my name is Benton! TEST TEST TEST</h1>
+      <Hero/>
 
     </div>
   );
